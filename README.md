@@ -25,3 +25,6 @@ mwijenje@gmail.com
 https://github.com/GhostsnipedXx
 
 # License
+MIT License
+
+Copyright (c) 2024 GhostsnipedXx
